@@ -1,0 +1,11 @@
+{
+    "name": "magepsycho/easypathhints",
+    "type": "magento-module",
+    "description": "?",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "extra": {
+        "magento-root-dir": "ls"
+    }
+}
